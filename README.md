@@ -33,7 +33,7 @@ Follow these steps to run the project locally on your machine:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/MdRaihan1996/SpringAPI.git
+git clone https://github.com/MdRaihan1996/CrudOperation.git
 
 ```
 
@@ -80,4 +80,3 @@ src/main/java/com/project/
 **[Mohd Raihan Contact:- +919721176116]** *Feel free to reach out for collaboration or questions!*
 
 ---
-
