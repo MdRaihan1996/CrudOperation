@@ -1,6 +1,6 @@
 
 
-# [CrudMaster]
+# [Employee-Management-System]
 
 A robust and scalable **CRUD (Create, Read, Update, Delete) Application** built with a modern Java-based tech stack. This project demonstrates the seamless integration of backend business logic with a responsive frontend interface to manage data efficiently.
 
